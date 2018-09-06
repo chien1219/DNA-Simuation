@@ -1,5 +1,5 @@
 # DNA #  
-DNA Simulation and interaction project that we have done in the Independent study in NCTU.  
+DNA Simulation and interaction project that we have done with Unity3D in the Independent study in NCTU.  
 Approved by MOST Academic Research Program in 2017 in Taiwan.
   
  ## Abstract  

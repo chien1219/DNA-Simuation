@@ -1,0 +1,8 @@
+http://lemonspawn.com
+
+These materials are all generated using LemonSpawns TangyTextures, a node-based procedural seamless material generator for Unity. 
+
+Free to use in any kind of project. If you happen to adopt any of these textures in a finished project, please let us know - would be cool to see!
+
+Also, if you like these textures, or would like to create your own - buy TangyTextures! Ever sale helps us provide beer for our multitude of mildly retarded employees.
+

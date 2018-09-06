@@ -1,0 +1,51 @@
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+Build
+/Builds/
+/Library/
+sysinfo.txt
+*.stackdump
+/Assets/AssetStoreTools*
+*.apk
+*.unitypackage
+metadata
+ 
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+[Ee]xported[Oo]bj/
+.vs/
+/*.userprefs
+/*.csproj
+/*.pidb
+*.pidb.meta
+/*.suo
+/*.sln*
+/*.user
+/*.unityproj
+/*.booproj
+.consulo/
+/*.tmp
+/*.svd
+ 
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store*
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+Corridor/Library/ShaderCache/
+Corridor/Library/metadata/
+
+# ============ #
+# My own File  #
+# ============ #
+Reminder.txt

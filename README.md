@@ -8,5 +8,5 @@ We try to put Virtual Reality into practice, combining headset and wearing devic
   
 ## Platform
   
-  HTC Vive & Controller
+  HTC Vive & Controller  
   PC
